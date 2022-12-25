@@ -1,0 +1,17 @@
+1- Install xampp ( given in the folder)
+2- Start first two actions
+3- open local host on your browser ( search local host) select phpmyadmin from top bar
+5- click on new on left hand side to make a new database. name it fooddeliverytest1 (important)
+6- now select that database
+4- import the sql database given in the folder named fooddeiverytest1.sql
+import option will be available on top bar 
+5- run the project
+
+if project fails to run you are missing sql connector.
+
+1- open project in intellij
+2- go to file > project structure
+3- in module section click on depedencies
+4- click on + ( add ) then click on add jars
+5- in the project's folder there will be a jar file click on that
+6- run again.
